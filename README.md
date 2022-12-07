@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Adrien Dzikowski </b><img src="https://media.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif" width="80"></h1>
+<h1 align="center"><b>Hi , I'm Adrien Dzikowski </b><img src="https://images.vexels.com/media/users/3/138497/isolated/preview/53a20af7ee5553040bb071dad0384dd3-fractal-sacred-geometry.png" width="80"></h1>
 
 <p align="center">
   <a><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Backend+Engineer+Intern;Artificial+Intelligence+Student"></a>
