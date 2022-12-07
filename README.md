@@ -1,6 +1,8 @@
 <h1 align="center"><b>Hi , I'm Adrien Dzikowski </b><img src="https://media.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif" width="80"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Backend+Engineer+Intern;Artificial+Intelligence+Student)](https://git.io/typing-svg)
+<p align="center">
+  <a><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Backend+Engineer+Intern;Artificial+Intelligence+Student"></a>
+</p>
 
 ## <picture><img src = "https://media.giphy.com/media/rNOw8gmATF8Dh3xFkH/giphy.gif" width = 50px></picture> **About me**
 
