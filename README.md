@@ -1,10 +1,10 @@
-<h1 align="center"><b>Hi , I'm Adrien Dzikowski </b><img src="https://media.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif" width="50"></h1>
+<h1 align="center"><b>Hi , I'm Adrien Dzikowski </b><img src="https://media.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif" width="80"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&duration=3000&pause=1000&color=89B4FF&center=true&vCenter=true&width=600&height=100&lines=Back-End+Engineer+Intern;Artificial+Intelligence+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Backend+Engineer+Intern;Artificial+Intelligence+Student)](https://git.io/typing-svg)
 
 ## <picture><img src = "https://media.giphy.com/media/rNOw8gmATF8Dh3xFkH/giphy.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://media.giphy.com/media/md4hJUbFWK4m2AUGw5/giphy.gif" width = 250px></picture>
+<picture> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width = 250px></picture>
 
 
 - Started studying CS in 2020 with C.
