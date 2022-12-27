@@ -4,7 +4,8 @@
   <a><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Backend+Engineer+Intern;Artificial+Intelligence+Student"></a>
 </p>
 
-## <picture><img src="https://media1.giphy.com/media/PhTSmzCqkliqIJ9ZtZ/giphy.gif?cid=790b7611wxvpqv9f2e5q9pgo96u92fztmkwnev62n943sz34&rid=giphy.gif&ct=s" width = 50px></picture> **About me**
+
+## <picture><img src="https://giphy.com/embed/PhTSmzCqkliqIJ9ZtZ" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width = 250px></picture>
 
