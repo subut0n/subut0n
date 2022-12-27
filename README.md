@@ -5,7 +5,7 @@
 </p>
 
 
-## <picture><img src="https://giphy.com/embed/PhTSmzCqkliqIJ9ZtZ" width = 50px></picture> **About me**
+## <picture><img src="https://w7.pngwing.com/pngs/328/329/png-transparent-beak-character-cartoon-others-fictional-character-cartoon-organ.png" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width = 250px></picture>
 
