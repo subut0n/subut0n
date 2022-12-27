@@ -4,16 +4,17 @@
   <a><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Backend+Engineer+Intern;Artificial+Intelligence+Student"></a>
 </p>
 
-## <picture><img src = "https://media.giphy.com/media/rNOw8gmATF8Dh3xFkH/giphy.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://media1.giphy.com/media/PhTSmzCqkliqIJ9ZtZ/giphy.gif?cid=790b7611wxvpqv9f2e5q9pgo96u92fztmkwnev62n943sz34&rid=giphy.gif&ct=s" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width = 250px></picture>
 
 
-- Started studying CS in 2020 with C.
+- Started studying Computer Science in 2020 with C programming language.
 - Interested in :
 	- Backend systems
 	- AI
 	- DeFi
+	- UI for AI applications
 - Currently learning and working with Golang
 - Personal website: Soon Available
 - I’m currently Back End Engineer Intern at [Vade](https://www.vadesecure.com/en/)
@@ -34,8 +35,7 @@
   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
-   ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
+  ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 
 - **Back-End Development**:
 
