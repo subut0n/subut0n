@@ -9,8 +9,7 @@
 <picture> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width = 250px></picture>
 
 
-- Started studying Computer Science at 42 in 2020 
-    with C programming language.
+- Started studying CS at 42 in 2020 with C.
 - Interested in :
 	- Backend systems
 	- AI
