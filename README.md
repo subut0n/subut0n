@@ -11,13 +11,13 @@
 
 Back End Engineer Intern at [Vade](https://www.vadesecure.com/en/)
 
-- Started studying CS at 42 in 2021 with ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white).
+- Started studying CS at 42 in 2021 with C
 - Interested in :
 	- Backend systems
 	- AI
 	- DeFi
 	- UX for AI applications
-- Currently learning Back End Engineering with ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+- Currently learning Back End Engineering with Golang
 - Personal website: Soon Available
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
