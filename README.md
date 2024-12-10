@@ -9,7 +9,9 @@
 
 <picture> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width = 250px></picture>
 
-Back End Engineer Intern at [Vade](https://www.vadesecure.com/en/)
+Currently looking for a Backend Engineer position!
+
+My previous position at [Vade](https://www.vadesecure.com/en/): [HERE](https://subuton.notion.site/What-I-learned-during-my-2-years-apprenticeship-at-Vade-9ccab357f1e442cb84c24420c92c0895)
 
 - Started studying CS at 42 in 2021 with C
 - Interested in :
@@ -26,7 +28,6 @@ Back End Engineer Intern at [Vade](https://www.vadesecure.com/en/)
 
 **Languages**:
     
-![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
 ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
