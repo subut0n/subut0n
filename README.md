@@ -1,35 +1,57 @@
-<h1 align="center"><b>Hi , I'm Adrien Dzikowski </b></h1>
+# Hey. I'm Adrien.
 
-<p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Backend+Engineer+Intern;Artificial+Intelligence+Student"></a>
-</p>
+I build things in **Go**, break things with curiosity, and occasionally read papers I half-understand at 2am.
 
+Based in **Lille, France**. Previously survived [42 Lyon](https://42.fr) (yes, the one with no teachers). Cut my teeth on real-world backend systems at **Vade**, email security, high-throughput pipelines, the kind of infra where "it works on my machine" doesn't fly. Learned a lot there.
 
-  **About me**
+Right now I'm looking for the next gig that makes me think hard. The job market for devs who took a detour isn't exactly welcoming, but I'd rather keep building than wait around.
 
-<picture> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width = 250px></picture>
+---
 
+### `> what I'm building right now`
 
-- Started studying CS at 42 in 2020 with C.
-- Interested in :
-	- Backend systems
-	- AI
-	- DeFi
-	- UX for AI applications
-- Currently learning and working with Golang
-- Personal website: Soon Available
-- I’m currently Back End Engineer Intern at [Vade](https://www.vadesecure.com/en/)
+So instead of refreshing LinkedIn, I've been obsessing over my own workflow. Turns out the best way to learn a tool is to get annoyed by it, then build a better one.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+**[mk](https://github.com/subut0n/mk)**, a TUI Makefile runner because I got tired of scrolling through 200-line Makefiles trying to remember target names. Built in Go.
 
-## <b>Skills</b>
+**[skit](https://github.com/subut0n/skit)**, same energy but for `package.json`. Interactive script picker, auto-detects your runner (bun, pnpm, yarn, npm), works with monorepo workspaces, zero deps. Because `npm run` + tab-completion roulette is not a workflow.
 
+**Docker TUI** *(WIP)*, think lazydocker but mine. The best way to understand a tool's internals is to rebuild it from scratch.
 
-**Languages**:
-    
-![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+---
 
+### `> tools I think with`
 
-</p>
+**Go** is the default. Fast, typed, no drama, compiles to a single binary. It gets out of the way and lets me focus on the actual problem.
+
+**React** when I need a UI. No strong opinions on the ecosystem wars, I just want it to work.
+
+**Python** for everything ML. **FastAPI** for quick APIs, **Polars** because life's too short for slow DataFrames. For modeling: **scikit-learn** and **XGBoost** for the classics, **PyTorch** when I need to go deeper. I also work with **ONNX Runtime**, **LangChain** / **LlamaIndex**, and **Hugging Face** depending on the problem. I have a soft spot for clean gradient boosted trees with good features, but the newer approaches are genuinely interesting when they're the right tool.
+
+---
+
+### `> the AI thing`
+
+I didn't just "add AI to my bio". I went through the basics properly, gradient descent by hand, CNNs, YOLO on fruits (don't ask), multi-input architectures for product classification.
+
+These days I use agents heavily in my workflow. They write scaffolding, I review and push back. It speeds things up, but I still want to understand what's actually running, which is why I've been poking at **OpenClaw** 🦞, a self-hosted AI agent with shell access. Impressive and genuinely a bit unsettling.
+
+On the reading side: the **test-time compute** shift was a wake-up call (turns out you can make a model smarter by letting it think longer), the **RAG vs long-context** tradeoffs are interesting to follow, and I'm still skeptical of most agentic pipelines in production.
+
+---
+
+### `> how I think`
+
+I went from C memory management at 42 → ML pipelines → Go microservices → React dashboards → reading transformer papers at night. Not because of a plan, but because **curiosity doesn't follow a roadmap**.
+
+I learn by doing, shipping, and debugging things I probably shouldn't have broken. The best architecture decisions I've made came from systems I've seen fail.
+
+---
+
+### `> where to find me`
+
+```
+web    → subut0n.dev
+github → you're already here (fresh migration from GitLab, repos incoming)
+loc    → probably in a terminal somewhere in Lille
+```
